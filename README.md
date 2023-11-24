@@ -1,2 +1,1 @@
-# pratikum.webgis
-pppppppp
+link https://krsnaghassani.github.io/pratikum.webgis/
